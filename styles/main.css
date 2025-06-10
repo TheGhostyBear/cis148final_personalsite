@@ -20,7 +20,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Header with gradient background */
+/* Header + gradient background */
 header {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
@@ -57,7 +57,7 @@ h4 {
     margin-bottom: 0.6rem;
 }
 
-/* Horizontal navigation menu using Flexbox */
+/* Horizontal navigation menu */
 .horizontal-nav ul {
     display: flex;
     justify-content: center;
